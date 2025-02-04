@@ -17,3 +17,6 @@ my_*
 /person_pb2.py
 /datasets
 *_files/
+*.out.ipynb
+*-preview.html
+*.zip
